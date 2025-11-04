@@ -10,11 +10,10 @@
 -  All my projects are available at [github.com/Mumtaz203](https://github.com/Mumtaz203)
 
 ---
-
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mümtaz-erdoğan-847241391" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
