@@ -3,14 +3,14 @@
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 -  I'm interested in **Machine Learning, Data Analysis, Frontend and Backend Development**  
 -  Experienced with **Java, Python, C, SQL, Spring Boot, Quarkus, and RESTful APIs**  
 -  How to reach me: **[mitaserdogan@gmail.com](mailto:mitaserdogan@gmail.com)**  
 -  All my projects are available at [github.com/Mumtaz203](https://github.com/Mumtaz203)
 
 ---
-### 🔗 Connect with me:
+###  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mümtaz-erdoğan-847241391" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mumtaz203&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
